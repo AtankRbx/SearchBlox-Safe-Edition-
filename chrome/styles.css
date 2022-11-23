@@ -1,6 +1,6 @@
 #sbx-panel {
     background-color: white;
-    height: 50px;
+    height: 100px;
     width: 300px;
 }
 
@@ -51,9 +51,9 @@
 
 #sbx-user {
     position: absolute;
-    height: 20px;
-    width: 20px;
-    transform: translate(15px, 15px);
+    height: 25px;
+    width: 25px;
+    transform: translate(25px, 15px);
 }
 
 .dark {
