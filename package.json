@@ -1,5 +1,5 @@
 {
-	"name": "searchblox-rewrite-safe-edition",
+	"name": "searchblox-rewrite",
 	"version": "0.5.1",
 	"description": "",
 	"main": "index.js",
@@ -9,4 +9,19 @@
 		"eslint-plugin-import": "^2.26.0",
 		"eslint-plugin-node": "^11.1.0",
 		"eslint-plugin-promise": "^5.2.0"
-	}
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/AtankRbx/SearchBlox-Safe-Edition-.git"
+	},
+	"author": "",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/AtankRbx/SearchBlox-Safe-Edition-/issues"
+	},
+	"homepage": "https://github.com/AtankRbx/SearchBlox-Safe-Edition-#readme",
+	"dependencies": {}
+}
